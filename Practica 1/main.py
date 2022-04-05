@@ -22,6 +22,6 @@ if __name__ == '__main__':
     # execute the program
     kernel.run(prg)
 
-# NO OLVIDARSE TP PARA SUBIR A GITLAB DE HISTORIA DE LOS SISTEMAS OPERATIVOS
+
 
 
